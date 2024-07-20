@@ -56,7 +56,7 @@ The project includes an example dataset `Web server log data.xlsx` to demonstrat
 
 ## Screenshots
 
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot to be uploaded](screenshot.png)
 
 ## Contributing
 
@@ -64,4 +64,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-For any questions or suggestions, feel free to contact [Helman Tsheboyagae](tsheboyagaeh@gmail.com).
+For any questions or suggestions, feel free to contact me at [(tsheboyagaeh@gmail.com)].
